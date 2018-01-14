@@ -3,7 +3,8 @@ A twitter video downloader. 推特视频下载器
 
 使用了第三方网站：http://downloadertwittervideo.com
 
-编写环境：python-3.6.4\
+系统环境：Windows\
+python版本：python-3.6.4\
 依赖库：requests\
 安装方法：`pip install requests`
 
