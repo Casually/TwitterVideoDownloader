@@ -10,5 +10,5 @@ A twitter video downloader. 推特视频下载器
 拖动TwitterVideoDownloader.py至pyinstaller.bat\
 同目录下会打包生成TwitterVideoDownloader.exe可执行文件
 
-打包基于pyinstaller\
-安装方法：`pip install pyinstaller`
+打包基于PyInstaller\
+安装方法：`pip install PyInstaller`
